@@ -1,3 +1,12 @@
+/*----------------------------------------------------------------------------------*/
+/*                                FATEC-Ipiranga                                    */        
+/*                            ADS - Estrutura de Dados                              */
+/*                             Id da Atividade: Atividade-N2-1                      */
+/*             Objetivo: Explorando a anatomia da árvore binária                    */
+/*                                                                                  */
+/*                                  Autor: Noah Tavares Bastos                      */
+/*                                                                   Data:05/05/2026*/
+/*----------------------------------------------------------------------------------*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <MINHABIB.h> 

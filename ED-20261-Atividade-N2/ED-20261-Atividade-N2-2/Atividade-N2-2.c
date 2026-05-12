@@ -1,3 +1,12 @@
+/*----------------------------------------------------------------------------------*/
+/*                                FATEC-Ipiranga                                    */        
+/*                            ADS - Estrutura de Dados                              */
+/*                             Id da Atividade: Atividade-N2-2                      */
+/*             Objetivo: Calculando o fator de balanceamento                        */
+/*                                                                                  */
+/*                                  Autor: Noah Tavares Bastos                      */
+/*                                                                   Data:12/05/2026*/
+/*----------------------------------------------------------------------------------*/
 #include <stdio.h>
 #include <stdlib.h>
 
